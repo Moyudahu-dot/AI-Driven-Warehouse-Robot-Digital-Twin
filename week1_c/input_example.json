@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "frame_id": "map",
+  "stamp": 0.0,
+  "horizon_s": 2.0,
+  "safety_margin_m": 0.3,
+  "max_observation_age_s": 0.2,
+  "robot": {
+    "id": "robot_0",
+    "radius_m": 0.3,
+    "trajectory": [
+      {
+        "t": 0.0,
+        "x": 0.0,
+        "y": 0.0
+      },
+      {
+        "t": 2.0,
+        "x": 2.0,
+        "y": 0.0
+      }
+    ]
+  },
+  "obstacles": [
+    {
+      "id": "obstacle_0",
+      "observed_at": 0.0,
+      "radius_m": 0.3,
+      "trajectory": [
+        {
+          "t": 0.0,
+          "x": 2.0,
+          "y": 0.0
+        },
+        {
+          "t": 2.0,
+          "x": 0.0,
+          "y": 0.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+test_clear (test_risk.RiskTests.test_clear) ... ok
+test_crossing (test_risk.RiskTests.test_crossing) ... ok
+test_duplicate_ids (test_risk.RiskTests.test_duplicate_ids) ... ok
+test_empty (test_risk.RiskTests.test_empty) ... ok
+test_head_on_between_samples (test_risk.RiskTests.test_head_on_between_samples) ... ok
+test_invalid (test_risk.RiskTests.test_invalid) ... ok
+test_stationary_contact (test_risk.RiskTests.test_stationary_contact) ... ok
+test_unequal_time_grid (test_risk.RiskTests.test_unequal_time_grid) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.002s
+
+OK
