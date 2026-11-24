@@ -11,3 +11,5 @@ python -m unittest -v
 ```
 
 Python 3.10+，无需第三方依赖；尚未完成 Isaac Sim/Nav2 真实联调。
+
+组员 A 的 GPU 虚拟机环境自检、版本选择与第一周验收清单见 [environment/README.md](environment/README.md)。

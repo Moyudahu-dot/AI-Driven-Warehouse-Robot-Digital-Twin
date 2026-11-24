@@ -1,3 +1,5 @@
 __pycache__/
 *.py[cod]
 .venv/
+environment_report_*.txt
+environment/environment_report_*.txt
